@@ -1,20 +1,10 @@
 # NIKO CITY SNAKE
 
-Had v oknech paneláku. Rozsviť město.
+Had v oknech paneláku. Čtyři stěny. Na rohu se otočí kamera.
 
-Jednosouborová hra. Stáhni `NIKO-CITY-SNAKE-PLAY.html` nebo otevři `index.html` v prohlížeči — bez serveru.
-
-## Telefon
-
-Táhni prstem po oknech. Had jde za prstem po křivce.
-Volitelně: tlačítko **Zapnout náklon** a řiď telefonem.
-O zeď se neodřeš. Konec je jen když se had kousne do ocasu.
-
-## Co sbíráš
-
-- žárovka — rozsvítí okno
-- rulička — had naroste
-- auto — bonus
-
-GitHub Pages: Settings → Pages → branch `main` / root
+Online až poběží Pages:
 https://dominikheller46-code.github.io/niko-city-snake/
+
+Soubor `index.html` otevři v prohlížeči — bez serveru.
+
+Táhni prstem. Had je pomalý. Nahoru/dolů je střecha a chodník. Do stran přeleze na další fasádu.
