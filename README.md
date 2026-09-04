@@ -1,31 +1,20 @@
 # NIKO CITY SNAKE
 
-Rozsviť město.
+Had v oknech paneláku. Rozsviť město.
 
-Jednosouborová hra. Stáhni `NIKO-CITY-SNAKE-PLAY.html` a otevři ji v prohlížeči — funguje bez serveru a bez instalace.
+Jednosouborová hra. Stáhni `NIKO-CITY-SNAKE-PLAY.html` nebo otevři `index.html` v prohlížeči — bez serveru.
 
-## Hra
+## Telefon
 
-Had z dutinek NIKO (modul M1) jezdí nočními ulicemi světa Město. Sbíráš:
+Táhni prstem po oknech. Had jde za prstem po křivce.
+Volitelně: tlačítko **Zapnout náklon** a řiď telefonem.
+O zeď se neodřeš. Konec je jen když se had kousne do ocasu.
 
-- **žárovku** — rozsvítí nejbližší dům
-- **ruličku** — had naroste
-- **auto** — bonus a zrychlení
+## Co sbíráš
 
-Náraz do domu, kraje mapy nebo do sebe = tma. Když svítí všechna okna, čtvrť je hotová.
+- žárovka — rozsvítí okno
+- rulička — had naroste
+- auto — bonus
 
-Ovládání: swipe / šipky / WASD. Tlačítko **HRÁT**.
-
-## Soubory
-
-- `NIKO-CITY-SNAKE-PLAY.html` — hra jako jeden soubor
-- `index.html` — stejná hra pro GitHub Pages
-
-Až v Settings → Pages zapneš branch `main` / root, hra pojede na:
-
+GitHub Pages: Settings → Pages → branch `main` / root
 https://dominikheller46-code.github.io/niko-city-snake/
-
-## Značka
-
-NIKO Play Pack · svět Město · unisex  
-NASAD. POOTOČ. STAV DÁL.
